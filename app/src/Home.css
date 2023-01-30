@@ -1,0 +1,24 @@
+nav{
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(96, 120, 239);
+    color: white;
+
+}
+button{
+    padding: 20px;
+    margin: 10px;
+    color: black;
+    border: solid rgb(125, 110, 110);
+    background-color: rgb(185, 178, 178);
+    
+   
+   
+}
+
+input{
+    padding: 20px;
+  background-color: aqua;
+  border: solid;
+}
+

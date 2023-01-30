@@ -1,0 +1,27 @@
+.contact{
+    color: aqua;
+   
+
+}
+.contact>form{
+    color: aqua;
+    gap: 20px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+input{
+    color: rgb(50, 4, 234);
+    padding: 1rem;
+    border: 1px solid rgb(12, 12, 16);
+    
+    
+}
+button{
+    padding: 1rem;
+}
+
